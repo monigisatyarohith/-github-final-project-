@@ -1,1 +1,2 @@
-https://github.com/monigisatyarohith/-github-final-project-/blob/main/README.md
+readme.md:https://github.com/monigisatyarohith/-github-final-project-/blob/main/README.md
+license:https://github.com/monigisatyarohith/-github-final-project-/blob/main/LICENSE
