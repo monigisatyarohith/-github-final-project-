@@ -2,3 +2,4 @@ readme.md:https://github.com/monigisatyarohith/-github-final-project-/blob/main/
 license:https://github.com/monigisatyarohith/-github-final-project-/blob/main/LICENSE
 code of conduct:https://github.com/monigisatyarohith/-github-final-project-/blob/main/CODE_OF_CONDUCT.md
 conttributing:https://github.com/monigisatyarohith/-github-final-project-/blob/main/CONTRIBUTING.md
+simpleinterest.sh:https://github.com/monigisatyarohith/-github-final-project-/blob/main/simple-interest.sh
